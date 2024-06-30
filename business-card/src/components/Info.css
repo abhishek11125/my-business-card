@@ -1,0 +1,18 @@
+.info{
+    color: white;
+}
+.info>p{
+    margin-top: -10px;
+}
+.info>p:nth-child(3){
+    text-decoration: underline;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.btns>button{
+    padding: 10px;
+    border-radius: 10px;
+}

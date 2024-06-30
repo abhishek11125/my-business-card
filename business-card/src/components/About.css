@@ -1,0 +1,11 @@
+.about > h3 {
+  margin-left: -80%;
+  text-decoration: underline;
+}
+.about {
+  color: white;
+}
+.about > p {
+  margin-top: -20px;
+  text-align: left;
+}
